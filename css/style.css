@@ -28,6 +28,7 @@
 			-o-animation: none !important;
 			-ms-animation: none !important;
 			animation: none !important;
+			display: none;
 		}
 
 	a {
